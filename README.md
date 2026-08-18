@@ -1,3 +1,8 @@
+# Publication
+Following is the link for publication. Some parts of the code were improved since the publication: https://onlinelibrary.wiley.com/doi/full/10.1155/2022/3649406
+
+Title: A Comprehensive Investigation of the Performances of Different Machine Learning Classifiers with SMOTE-ENN Oversampling Technique and Hyperparameter Optimization for Imbalanced Heart Failure Dataset
+
 # Heart Failure Prediction
 
 Machine learning project for predicting heart failure mortality from clinical records. The main target variable is `DEATH_EVENT`, and the project compares multiple supervised classification models using cross-validation, hyperparameter tuning, probability-based evaluation, calibration analysis, and model interpretability outputs.
